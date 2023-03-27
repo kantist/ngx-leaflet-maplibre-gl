@@ -4,6 +4,7 @@
 		"baseUrl": "./",
 		"outDir": "./dist/out-tsc",
 		"forceConsistentCasingInFileNames": true,
+		"allowSyntheticDefaultImports": true, // added for maplibre-gl
 		"strict": false,
 		"noImplicitOverride": true,
 		"noPropertyAccessFromIndexSignature": true,
