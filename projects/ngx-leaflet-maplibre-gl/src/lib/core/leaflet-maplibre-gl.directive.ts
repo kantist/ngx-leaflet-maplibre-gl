@@ -12,6 +12,6 @@ import 'maplibre-gl';
 import '@maplibre/maplibre-gl-leaflet';
 
 @Directive({
-	selector: '[LeafletMaplibreGl]',
+	selector: '[leafletMaplibreGl]',
 })
 export class LeafletMaplibreGlDirective {}
