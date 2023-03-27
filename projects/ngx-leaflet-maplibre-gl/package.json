@@ -1,0 +1,22 @@
+{
+	"name": "@dvina/ngx-leaflet-maplibre-gl",
+	"description": "Angular components for the Leaflet @maplibre/maplibre-gl-leaflet plugin",
+	"version": "15.0.*",
+	"author": "Kant Yazılım A.Ş.",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/dvina-ai/ngx-leaflet-maplibre-gl.git"
+	},
+	"peerDependencies": {
+		"@angular/common": "15",
+		"@angular/core": "15",
+		"@asymmetrik/ngx-leaflet": "15",
+		"leaflet": "1",
+		"maplibre-gl": "^2.4.0",
+		"@maplibre/maplibre-gl-leaflet": "0.0.19"
+	},
+	"dependencies": {
+		"tslib": "^2.3.0"
+	}
+}
