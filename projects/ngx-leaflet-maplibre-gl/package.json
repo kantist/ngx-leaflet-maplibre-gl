@@ -1,7 +1,7 @@
 {
 	"name": "@dvina/ngx-leaflet-maplibre-gl",
 	"description": "Angular components for the Leaflet @maplibre/maplibre-gl-leaflet plugin",
-	"version": "16.0.0",
+	"version": "16.0.1",
 	"author": "Kant Yazılım A.Ş.",
 	"license": "MIT",
 	"repository": {
@@ -13,8 +13,8 @@
 		"@angular/core": "16",
 		"@asymmetrik/ngx-leaflet": "16",
 		"leaflet": "1",
-		"maplibre-gl": "^2.4.0",
-		"@maplibre/maplibre-gl-leaflet": "0.0.19"
+		"maplibre-gl": "^3.3.1",
+		"@maplibre/maplibre-gl-leaflet": "^0.0.20"
 	},
 	"dependencies": {
 		"tslib": "^2.4.0"
