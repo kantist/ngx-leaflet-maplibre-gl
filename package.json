@@ -19,7 +19,7 @@
 		"@angular/platform-browser": "^17.0",
 		"@angular/platform-browser-dynamic": "^17.0",
 		"@angular/router": "^17.0",
-		"@asymmetrik/ngx-leaflet": "16",
+		"@asymmetrik/ngx-leaflet": "17",
 		"maplibre-gl": "^3.3.1",
 		"@maplibre/maplibre-gl-leaflet": "^0.0.20",
 		"eslint-plugin-header": "^3.1.1",
@@ -52,6 +52,6 @@
 		"karma-jasmine": "~4.0.0",
 		"karma-jasmine-html-reporter": "~1.7.0",
 		"ng-packagr": "^17.0",
-		"typescript": "~5.0.4"
+		"typescript": "~5.2.0"
 	}
 }
